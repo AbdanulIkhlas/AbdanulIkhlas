@@ -23,4 +23,5 @@ Muhammad Abdanul Ikhlas
 
 ### My GitHub Stats
 
-<a href="https://github.com/AbdanulIkhlas" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdanulIkhlas&langs_count=10&title_color=84cc16&text_color=ffffff&icon_color=84cc16&bg_color=171717&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a> <span>&nbsp;&nbsp;</span>  <a href="http://www.github.com/AbdanulIkhlas"><img src="https://github-readme-stats.vercel.app/api?username=AbdanulIkhlas&show_icons=true&hide=&count_private=true&title_color=84cc16&text_color=ffffff&icon_color=84cc16&bg_color=171717&hide_border=true&show_icons=true" alt="AbdanulIkhlas's GitHub stats" /></a> 
+<a href="https://github.com/AbdanulIkhlas" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdanulIkhlas&langs_count=10&title_color=84cc16&text_color=ffffff&icon_color=84cc16&bg_color=171717&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="http://www.github.com/AbdanulIkhlas"><img src="https://github-readme-stats.vercel.app/api?username=AbdanulIkhlas&show_icons=true&hide=&count_private=true&title_color=84cc16&text_color=ffffff&icon_color=84cc16&bg_color=171717&hide_border=true&show_icons=true" alt="AbdanulIkhlas's GitHub stats" /></a> 
