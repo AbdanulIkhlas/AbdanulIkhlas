@@ -3,8 +3,8 @@ Muhammad Abdanul Ikhlas
 
 * 🌍  I'm based in Yogyakarta, Indonesia
 * ✉️  You can contact me at [muhabdanulikhlas0983@gmail.com](mailto:muhabdanulikhlas0983@gmail.com)
-* 🧠  Now I'm still in the learning stage to become a Web Developer
-* ⚡  I'm interested in Web Development and Data Processing
+* 🧠  now I want to learn and deepen Machine Learning
+* ⚡  I'm interested in Web Development, Data Processing, and Machine Learning
 
  
 ### Socials
