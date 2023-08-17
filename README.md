@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Klaz</h1>
-<h3 align="center">A passionate Frontend Developer and Machine Learning Enthusiast</h3>
+<h3 align="center">Frontend Developer and Machine Learning Enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdanulikhlas&label=Profile%20views&color=0e75b6&style=flat" alt="abdanulikhlas" /> </p>
 
@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **muhabdanulikhlas0983@gmail.com**
 
-- ⚡ Fun fact **I'm interested in Web Development, Data Processing, and Machine Learning**
+- ⚡ I'm interested in Web Development, Data Processing, and Machine Learning
 
 
 <h3 align="left">Connect with me:</h3>
