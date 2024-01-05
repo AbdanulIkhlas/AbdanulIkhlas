@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **muhabdanulikhlas0983@gmail.com**
 
-- ⚡ I'm interested in Web Development, Data Processing, and Machine Learning
+- ⚡ I'm interested in Web Development, Data Analyst, and Machine Learning
 
 
 <h3 align="left">Connect with me:</h3>
