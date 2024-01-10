@@ -3,9 +3,9 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=abdanulikhlas&label=Profile%20views&color=0e75b6&style=flat" alt="abdanulikhlas" /> </p>
 
-- 🌱 I’m currently learning **Machine Learning and Frontend WebDev**
+- 🌱 I’m currently learning **ML and Frontend WebDev**
 
-- 👯 I’m looking to collaborate on **Web Based Project**
+- 👯 I’m looking to collaborate on **Software Development / Web Based Project**
 
 - 👨‍💻 All of my projects are available at **[https://abdanulikhlas.github.io/](https://abdanulikhlas.github.io/)**
 
