@@ -6,8 +6,13 @@
 </p>
 
 <p align="center">
-  I am a third-year Informatics student at Universitas Pembangunan Nasional Veteran Yogyakarta. My interests lie in Web Development, Data Analytics, and Machine Learning. In Web Development, I specialise in Front-end using React.js. In some projects I have worked on, I used PHP for both sides. In addition, I am currently studying Data Analytics and Machine Learning from various sources as well as through Bangkit Academy 2023, where I graduated as a distinction. I have also obtained TensorFlow Developer Certification and Associate Data Scientist certification from LSP Informatika
+  I am a third-year Informatics student at Universitas Pembangunan Nasional Veteran Yogyakarta. My interests lie in Web Development, Data Analytics, and Machine Learning. In Web Development, I specialise in Front-end using React.js. In some projects I have worked on, I used PHP for both sides. In addition, I am currently studying Data Analytics and Machine Learning from various sources as well as through Bangkit Academy 2023, where I graduated as a distinction. I have also obtained <a href="https://www.credential.net/9403ff3b-43cd-48f0-809e-d458e39017b9">TensorFlow Developer Certification</a> and Associate Data Scientist certification from LSP Informatika
+
+
 </p>
+
+
+
 
 
 <p align="center">
@@ -15,8 +20,10 @@
 </p>
 
 <p align="center">
-  🤝 I'm open to collaborate on stunning Software Development and Web-Based Projects. Check out my web profile and portfolio at  <a href="https://abdanulikhlas.github.io/">abdanulikhlas.github.io</a>.
+  🤝 I'm open to collaborate on stunning Software Development and Web-Based Projects. Check out my web profile and portfolio at  <a href="https://abdanulikhlas.github.io/">abdanulikhlas.github.io</a>
+. (Still in the development stage)
 </p>
+
 
 <p align="center">
   📫 Feel free to reach out at <a href="mailto:muhabdanulikhlas0983@gmail.com">muhabdanulikhlas0983@gmail.com</a> to discuss ideas, opportunities, or simply to say hello!
