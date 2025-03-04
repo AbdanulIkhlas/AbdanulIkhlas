@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  I am a third-year Informatics student at Universitas Pembangunan Nasional Veteran Yogyakarta. My interests lie in Web Development, Data Analytics, and Machine Learning. In Web Development, I specialise in Front-end using React.js. In some projects I have worked on, I used PHP for both sides. In addition, I am currently studying Data Analytics and Machine Learning from various sources as well as through Bangkit Academy 2023, where I graduated as a distinction. I have also obtained <a href="https://www.credential.net/9403ff3b-43cd-48f0-809e-d458e39017b9">TensorFlow Developer Certification</a> and Associate Data Scientist certification from LSP Informatika
+  I am a final year Informatics student at Universitas Pembangunan Nasional Veteran Yogyakarta. My interests lie in Web Development, Data Analytics, and Machine Learning. In Web Development, I specialise in Front-end using React.js. In some projects I have worked on, I used PHP for both sides. In addition, I am currently studying Data Analytics and Machine Learning from various sources as well as through Bangkit Academy 2023, where I graduated as a distinction. I have also obtained <a href="https://www.credential.net/9403ff3b-43cd-48f0-809e-d458e39017b9">TensorFlow Developer Certification</a> and Associate Data Scientist certification from LSP Informatika
 </p>
 
 <p align="center">
