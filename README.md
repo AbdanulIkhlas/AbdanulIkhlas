@@ -1,24 +1,26 @@
 <h1 align="center">👋 Hi, I'm Klaz</h1>
-<h3 align="center">Frontend Developer | Google Certified TensorFlow Developer | Certified Associate Data Scientist</h3>
+<h3 align="center">Frontend Developer | (Next JS, React JS, Vue JS)</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=abdanulikhlas&label=Profile%20views&color=0e75b6&style=flat" alt="abdanulikhlas" />
 </p>
 
 <p align="center">
-  I am a final year Informatics student at Universitas Pembangunan Nasional Veteran Yogyakarta. My interests lie in Web Development, Data Analytics, and Machine Learning. In Web Development, I specialise in Front-end using React.js. In some projects I have worked on, I used PHP for both sides. In addition, I am currently studying Data Analytics and Machine Learning from various sources as well as through Bangkit Academy 2023, where I graduated as a distinction. I have also obtained <a href="https://www.credential.net/9403ff3b-43cd-48f0-809e-d458e39017b9">TensorFlow Developer Certification</a> and Associate Data Scientist certification from LSP Informatika
+  I am an Informatics graduate from UPN Veteran Yogyakarta with over 3 years of experience in web development, including nearly 2 years of freelance work. Currently, I work as a Programmer at an IT company in the pharmaceutical sector (PT Farma Global Teknologi), where my primary focus is Frontend development using Vue.js
 </p>
 
 <p align="center">
-  💼 For work experience, I served as a Front-End Developer at a software house called StepUpProject, specializing in React.js. Additionally, I've completed various personal and freelance projects, handling both Front-End and Back-End development (utilizing PHP)
+  I started my career working with native PHP, then transitioned to React.js and Next.js, building various web applications such as school material and assignment management systems, landing pages, and web-based attendance systems. Most of my work is focused on Frontend Development, with an emphasis on clean code structure, maintainability, and user experience
 </p>
 
 <p align="center">
-  🤝 I'm open to collaborate on stunning Software Development and Web-Based Projects. Check out my web profile and portfolio at  <a href="https://abdanulikhlas.github.io/">abdanulikhlas.github.io</a>
+  I am experienced in working on real-world projects, both independently and in team-based environments. While currently employed, I remain open to remote collaboration and project-based opportunities, provided they do not interfere with my primary role. Check out my web profile and portfolio at  <a href="https://abdanulikhlas.github.io/">abdanulikhlas.github.io</a>
 . (Still in the development stage)
 </p>
 
-<p align="center">
+<p align="left">
+  📌 Main focus: Frontend Development (React.js, Next.js, Vue.js) </br>
+  🤝 Open to: collaboration, freelance projects, and digital product development </br>
   📫 Feel free to reach out at <a href="mailto:muhabdanulikhlas0983@gmail.com">muhabdanulikhlas0983@gmail.com</a> to discuss ideas, opportunities, or simply to say hello!
 </p>
 
@@ -64,6 +66,15 @@
   </a> 
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  </a>
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/nextjs/nextjs-icon.svg" alt="nextjs" width="40" height="40"/>
+  </a>
+  <a href="https://react.dev/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="reactjs" width="40" height="40"/>
+  </a>
+  <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" alt="vuejs" width="40" height="40"/>
   </a>
 </p>
 
