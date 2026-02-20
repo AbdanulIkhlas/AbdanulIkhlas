@@ -1,30 +1,54 @@
 <h1 align="center">👋 Hi, I'm Klaz</h1>
-<h3 align="center">Frontend Developer | (Next JS, React JS, Vue JS)</h3>
+<h3 align="center">Frontend Developer | React.js · Next.js · Vue.js</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=abdanulikhlas&label=Profile%20views&color=0e75b6&style=flat" alt="abdanulikhlas" />
-</p>
-
-<p align="center">
-  I am an Informatics graduate from UPN Veteran Yogyakarta with over 3 years of experience in web development, including nearly 2 years of freelance work. Currently, I work as a Programmer at an IT company in the pharmaceutical sector (PT Farma Global Teknologi), where my primary focus is Frontend development using Vue.js
+  <img src="https://komarev.com/ghpvc/?username=AbdanulIkhlas&label=Profile%20views&color=0e75b6&style=flat" alt="AbdanulIkhlas" />
 </p>
 
 <p align="center">
-  I started my career working with native PHP, then transitioned to React.js and Next.js, building various web applications such as school material and assignment management systems, landing pages, and web-based attendance systems. Most of my work is focused on Frontend Development, with an emphasis on clean code structure, maintainability, and user experience
+  Informatics graduate from UPN Veteran Yogyakarta with hands on experience in building web applications across various domains.  
+  I specialize in Frontend Development using React.js, Next.js, and Vue.js, focusing on creating responsive, maintainable, and user friendly interfaces.
 </p>
 
 <p align="center">
-  I am experienced in working on real-world projects, both independently and in team-based environments. While currently employed, I remain open to remote collaboration and project-based opportunities, provided they do not interfere with my primary role. Check out my web profile and portfolio at  <a href="https://abdanulikhlas.github.io/">abdanulikhlas.github.io</a>
-. (Still in the development stage)
+  I have worked on multiple real world projects including management systems, company profiles, landing pages, and web based attendance platforms.  
+  My development approach emphasizes clean code structure, reusable components, and seamless REST API integration.
 </p>
 
-<p align="left">
-  📌 Main focus: Frontend Development (React.js, Next.js, Vue.js) </br>
-  🤝 Open to: collaboration, freelance projects, and digital product development </br>
-  📫 Feel free to reach out at <a href="mailto:muhabdanulikhlas0983@gmail.com">muhabdanulikhlas0983@gmail.com</a> to discuss ideas, opportunities, or simply to say hello!
+<p align="center">
+  Comfortable working both independently and in team environments, and experienced in mentoring interns on frontend fundamentals, project structure, and best practices.
 </p>
 
+<p align="center">
+  🌐 Portfolio: <a href="https://abdanulikhlas.stepupproject.id/">abdanulikhlas.stepupproject.id</a>
+</p>
 
+---
+
+### 🚀 Tech Stack
+- **Frontend:** React.js, Next.js, Vue.js, JavaScript, HTML5, CSS3  
+- **Concepts:** Component Based Architecture, Responsive Design, Clean Code, REST API Integration  
+- **Tools:** Git, GitHub/GitLab, Basic SEO Implementation  
+
+---
+
+### 📌 Current Focus
+- Building structured and scalable frontend architectures  
+- Improving UI consistency with reusable components  
+- Performance optimization and accessibility in modern web apps  
+
+---
+
+### 🤝 Open To
+- Frontend collaboration projects  
+- Freelance opportunities  
+- Digital product development  
+
+---
+
+### 📫 Contact
+- Email: <a href="mailto:muhabdanulikhlas0983@gmail.com">muhabdanulikhlas0983@gmail.com</a> 
+  
 <br>
 
 
