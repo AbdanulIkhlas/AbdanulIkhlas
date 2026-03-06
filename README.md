@@ -25,6 +25,13 @@
 
 ---
 
+### 👨‍💻 Experience
+- Programmer @ <a href="https://farmagitechs.co.id/">PT Farma Global Teknologi</a>
+- Co-Founder & Frontend Developer @ <a href="https://www.stepupproject.id/">Step Up Project</a>
+- Freelance Web Developer
+
+---
+
 ### 🚀 Tech Stack
 - **Frontend:** React.js, Next.js, Vue.js, JavaScript, HTML5, CSS3  
 - **Concepts:** Component Based Architecture, Responsive Design, Clean Code, REST API Integration  
